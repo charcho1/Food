@@ -1,5 +1,3 @@
-#Food
-
 A simple app which finds pictures of restaurants from Yelp
 
 1. Homescreen
